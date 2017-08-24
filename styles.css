@@ -124,6 +124,10 @@ div#two {
     text-align: center;
     padding: 5px;
 }
+.icon {
+    width: auto;
+    height: 96px;
+}
 
 /* SVG Blocks */
 
