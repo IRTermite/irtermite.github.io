@@ -125,8 +125,8 @@ section {
     padding: 5px;
 }
 .icon {
-    width: 96px;
-    height: auto;
+    width: auto;
+    height: 8em;
 }
 
 /* SVG Blocks */
