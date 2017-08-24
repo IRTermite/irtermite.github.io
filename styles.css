@@ -1,13 +1,14 @@
 body {background-color:#4d4d4d; color:white; font-family:"Verdana"}
 h1   {color:#ff6600}
-h2   {color:white}
+h2   {color:#ff6600}
 h3   {color:black}
+h4   {color:black}
 p    {color:white}
 p2   {color:black}
-link {color:#ff6600}
-visted {color:#ff6600}
-hover {color:#ff6600}
-active {color:#ff6600}
+a:link {color:#ff6600;}
+a:visited {color:#ff6600;}
+a:hover {color:#FCA98C;}
+a:active {color:#FCA98C;}
 
 
 div.container {
@@ -59,7 +60,10 @@ div#header {
 }
 
 .left {
-    margin: auto;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
     float: none;
     width: auto;
     height: auto;
